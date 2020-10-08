@@ -7,8 +7,8 @@ google_analytics:
 name: Climate Crisis
 title: ABOUT CLIMATE CRISIS
 description: >
-  Hi! This is a project carried out by Andrea Bertran, a Creative Technologist and Architect.
-url: https://andreabertran.netlify.app
+  A project carried out by Andrea Bertran.
+url: https://www.aboutclimatecrisis.com/
 twitter_username:
 default_img:
 social:
@@ -16,8 +16,8 @@ social:
 
 
 # Contact settings
-contact_img: /assets/images/phygital.jpg
-formcarry: bertran.andrea@gmail.com
+contact_img:
+formcarry: 
 
 # # Disqus settings
 # disqus: test-apkdzgmqhj
