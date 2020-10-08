@@ -1,0 +1,61 @@
+---
+layout: default
+---
+<script>
+  window.onload = init;
+  function init(){
+    getFact()
+  }
+</script>
+
+<div class="post">
+  <article itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
+    <div class="grid-small">
+    </div>
+
+    <div class="post__content section-padding">
+      <div class="grid">
+        <div id="markdown" align="center">
+
+<!-- <div class="post">
+  <article itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
+
+      <div class="related__container section-padding">
+        <div class="grid">
+          <div id="markdown" align="center">
+
+          {{content}}
+
+          <span style="display:block; height: 50px;"></span>
+
+          <hr> -->
+
+          <span style="display:block; height: 50px;"></span>
+
+          <blockquote>
+
+            <p2 id="newFactSection"></p2>
+            <span style="display:block; height: 30px;"></span>
+            <cite  id="newAuthorSection"></cite>
+            <span style="display:block; height: 30px;"></span>
+
+          </blockquote>
+
+              <code>
+            <a target="_blank" id="newSourceSection">source</a>
+              </code>
+
+          </div>
+        </div>
+      </div>
+
+       <div class="row flext-top justify-content-center" align="center">
+         <button id="button" class="btn-large new-fact-button" onClick="getFact()">New</button>
+       </div>
+
+       <span style="display:block; height: 80px;"></span>
+
+    </article>
+  </div>
+
+  <script src="/assets/js/fact.js"></script>
