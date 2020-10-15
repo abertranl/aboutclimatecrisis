@@ -8,7 +8,7 @@ name: Climate Crisis
 title: ABOUT CLIMATE CRISIS
 description: >
   A project carried out by Andrea Bertran.
-url: https://www.aboutclimatecrisis.com/
+url: https://www.aboutclimatecrisis.com
 twitter_username:
 default_img:
 social:
@@ -17,7 +17,7 @@ social:
 
 # Contact settings
 contact_img:
-formcarry: 
+formcarry:
 
 # # Disqus settings
 # disqus: test-apkdzgmqhj

@@ -108,7 +108,7 @@ var fact = [
    author: "Advice",
    source: "https://livingplanet.panda.org/en-us/"
   }, {
-   fact: 'While the Paris Agreement is an important step towards limiting human-induced climate change, the current pledges from its signatories are totally inadequate to achieve its targets, with global emissions projected to be about the same in 2030 as they are today. Global temperatures could reach the 1.5oC aspirational target by the early to mid-2030s, and the 2oC threshold by 2050-2070. Without additional actions to reduce greenhouse gas emissions we are on a pathway to a rise of 3-4oC, which will have devastating effects on biodiversity and human well-being.',
+   fact: 'While the Paris Agreement is an important step towards limiting human-induced climate change, the current pledges from its signatories are totally inadequate to achieve its targets, with global emissions projected to be about the same in 2030 as they are today. Global temperatures could reach the 1.5°C aspirational target by the early to mid-2030s, and the 2°C threshold by 2050-2070. Without additional actions to reduce greenhouse gas emissions we are on a pathway to a rise of 3-4oC, which will have devastating effects on biodiversity and human well-being.',
    author: "Living Planet Report 2020",
    source: "https://livingplanet.panda.org/en-us/"
   }, {
@@ -349,19 +349,19 @@ var fact = [
    source: "https://www.ipcc.ch/srccl/"
   }, {
    fact: 'Estimated anthropogenic global warming is currently increasing at 0.2°C (likely between 0.1°C and 0.3°C) per decade due to past and ongoing emissions.',
-   author: "IPCC - Global Warming of 1.5C Report 2020",
+   author: "IPCC - Global Warming of 1.5°C Report 2020",
    source: "https://www.ipcc.ch/sr15/"
   }, {
    fact: 'Warming from anthropogenic emissions from the pre-industrial period to the present will persist for centuries to millennia and will continue to cause further long-term changes in the climate system, such as sea level rise, with associated impacts.',
-   author: "IPCC - Global Warming of 1.5C Report 2020",
+   author: "IPCC - Global Warming of 1.5°C Report 2020",
    source: "https://www.ipcc.ch/sr15/"
   }, {
    fact: 'The number of hot days is projected to increase in most land regions, with highest increases in the tropics.',
-   author: "IPCC - Global Warming of 1.5C Report 2020",
+   author: "IPCC - Global Warming of 1.5°C Report 2020",
    source: "https://www.ipcc.ch/sr15/"
   }, {
    fact: 'High-latitude tundra and boreal forests are particularly at risk of climate change-induced degradation and loss, with woody shrubs already encroaching into the tundra and this will proceed with further warming.',
-   author: "IPCC - Global Warming of 1.5C Report 2020",
+   author: "IPCC - Global Warming of 1.5°C Report 2020",
    source: "https://www.ipcc.ch/sr15/"
   }, {
    fact: '"There are not organisms on one side and an environment on the other, but a coproduction by both."',
