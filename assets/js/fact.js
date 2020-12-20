@@ -1,5 +1,5 @@
 var fact = [
-{
+  {
     fact: '"Each day we pump up about 100 million tons of Co2 into the atmosphere."',
     author: "Sævar Helgi Bragason | Astronomy teacher and science advocator",
     source: "https://www.youtube.com/watch?v=2nIMQrpDgaQ"
@@ -100,7 +100,7 @@ var fact = [
    author: "Living Planet Report 2020",
    source: "https://livingplanet.panda.org/en-us/"
   }, {
-   fact: 'Until 1970, humanity’s Ecological Footprint was smaller than the Earth’s rate of regeneration. To feed and fuel our 21st century lifestyles, we are overusing the Earth’s biocapacity by at least 56%',
+   fact: 'Until 1970, humanity’s Ecological Footprint was smaller than the Earth’s rate of regeneration. To feed and fuel our 21st century lifestyles, we are overusing the Earth’s biocapacity by at least 56%.',
    author: "Living Planet Report 2020",
    source: "https://livingplanet.panda.org/en-us/"
   }, {
@@ -108,7 +108,7 @@ var fact = [
    author: "Advice",
    source: "https://livingplanet.panda.org/en-us/"
   }, {
-   fact: 'While the Paris Agreement is an important step towards limiting human-induced climate change, the current pledges from its signatories are totally inadequate to achieve its targets, with global emissions projected to be about the same in 2030 as they are today. Global temperatures could reach the 1.5°C aspirational target by the early to mid-2030s, and the 2°C threshold by 2050-2070. Without additional actions to reduce greenhouse gas emissions we are on a pathway to a rise of 3-4oC, which will have devastating effects on biodiversity and human well-being.',
+   fact: 'While the Paris Agreement is an important step towards limiting human-induced climate change, the current pledges from its signatories are totally inadequate to achieve its targets, with global emissions projected to be about the same in 2030 as they are today. Global temperatures could reach the 1.5°C aspirational target by the early to mid-2030s, and the 2°C threshold by 2050-2070. Without additional actions to reduce greenhouse gas emissions we are on a pathway to a rise of 3-4°C, which will have devastating effects on biodiversity and human well-being.',
    author: "Living Planet Report 2020",
    source: "https://livingplanet.panda.org/en-us/"
   }, {
@@ -188,7 +188,7 @@ var fact = [
    author: "Living Planet Report 2020",
    source: "https://livingplanet.panda.org/en-us/"
   }, {
-   fact: 'Nowhere in the ocean is entirely unaffected by humans: only 13% of its area is considered to be wilderness 80, waste and marine litter are found even in deep ocean trenches 81, and human pressures are increasing over time.',
+   fact: 'Nowhere in the ocean is entirely unaffected by humans: only 13% of its area is considered to be wilderness, waste and marine litter are found even in deep ocean trenches, and human pressures are increasing over time.',
    author: "Living Planet Report 2020",
    source: "https://livingplanet.panda.org/en-us/"
   }, {
@@ -368,7 +368,7 @@ var fact = [
    author: "Bruno Latour | Philosopher, anthropologist and sociologist",
    source: "https://www.goodreads.com/book/show/40004260-down-to-earth"
   }, {
-   fact: '"Without the idea that we have entered into a New Climatic Regime,3 we cannot understand the explosion of inequalities, the scope of deregulation, the critique of globalization, or, most importantly, the panicky desire to return to the old protections of the nation-state – a desire that is identified, quite inaccurately, with the “rise of populism.”"',
+   fact: '"Without the idea that we have entered into a New Climatic Regime, we cannot understand the explosion of inequalities, the scope of deregulation, the critique of globalization, or, most importantly, the panicky desire to return to the old protections of the nation-state – a desire that is identified, quite inaccurately, with the “rise of populism.”"',
    author: "Bruno Latour | Philosopher, anthropologist and sociologist",
    source: "https://www.goodreads.com/book/show/40004260-down-to-earth"
   }, {
@@ -399,10 +399,25 @@ var fact = [
    fact: '"If I burned your house the least I can do is welcome you into my house … and if I’m burning it right now I should try to stop the fire now."',
    author: "Pablo Solón | Bolivia's Former Ambassador to the United Nations",
    source: "https://focusweb.org/"
+  }, {
+   fact: '"We no longer have time to be sustainable. We must be agents, regenerators of life."',
+   author: "Flávia Vale Dornelas | Permaculture enthusiast, environmental educator with training in Socio-environmental Sciences and specialized in Agroecosystems.",
+   source: "https://www.instagram.com/connecthort/"
+  }, {
+   fact: '"Even if we reduce greenhouse gas emissions, it is not enough to balance the climate; because of the enormous amount of carbon dioxide that we already put into the atmosphere."',
+   author: "Flávia Vale Dornelas | Permaculture enthusiast, environmental educator with training in Socio-environmental Sciences and specialized in Agroecosystems.",
+   source: "https://www.instagram.com/connecthort/"
+  }, {
+   fact: '"Why not use the most powerful and ancient biotech carbon capture for a common benefit? Photosynthesis of plants and soil microorganisms."',
+   author: "Flávia Vale Dornelas | Permaculture enthusiast, environmental educator with training in Socio-environmental Sciences and specialized in Agroecosystems.",
+   source: "https://www.instagram.com/connecthort/"
+  }, {
+   fact: '"Cultivate as nature does, take care of our forests and its people, support regenerative agriculture. We can reconcile with nature through Agroforestry Systems; based on cooperation, abundance, and the true meaning of agriculture."',
+   author: "Flávia Vale Dornelas | Permaculture enthusiast, environmental educator with training in Socio-environmental Sciences and specialized in Agroecosystems.",
+   source: "https://www.instagram.com/connecthort/"
   }
 
 ];
-
 
 function getFact() {
   let factSize = fact.length;
@@ -412,12 +427,22 @@ function getFact() {
   document.getElementById('newFactSection').innerText = randomFactData.fact;
   document.getElementById('newAuthorSection').innerText = randomFactData.author;
   document.getElementById('newSourceSection').href = randomFactData.source;
+  //document.getElementById('newImageSection').src= randomFactData.image;
 
 }
+
 
 // TO COPY FOR NEW QUOTES-FACTS-WHATEVER
 // , {
 //   fact: '""',
 //   author: "",
 //   source: ""
+// }
+
+//TO PUT Image
+// , {
+//   fact:"",
+//   image: "/assets/images/data1.png",
+//   author: "Mike Barrett | Executive director of conservation and science at WWF",
+//   source: "https://www.theguardian.com/environment/2020/sep/10/humans-exploiting-and-destroying-nature-on-unprecedented-scale-report-aoe"
 // }

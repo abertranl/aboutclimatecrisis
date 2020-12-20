@@ -20,13 +20,10 @@ We need to stop turning our heads around. There is no time for pause.
 
 <br>
 
-<b>This project composed by this website and a T-shirt </b> aims to bring you closer to the climate crisis and incite you to read, learn and identify things you can change to help the environment.
+<b>1st donation:</b>
+50% of the money raised by the designer (during the first campaign with Everpress) has been donated to <a target="_blank" href="https://www.worldwildlife.org/"><i>World Wildlife Fund</i></a>, to help them with their mission to "conserve nature and reduce the most pressing threats to the diversity of life on Earth".
 
-<b>To support the project, buy the T-shirt at <a target="_blank" href="https://everpress.com/aboutclimatecrisis"><i>everpress.com/aboutclimatecrisis</i></a>.</b>
-
-50% of the money raised by the designer will be donated to WWF. After the campaign in Everpress is done, this page will be updated with the donation for transparency.
-
-To find more about it, click <a target="_blank" href="https://abertran.com/2020/10/15/acc/"><i>here</i></a>.
+<img src="/assets/images/WWFTransfer.JPG" alt="Grid Image"/>
 
 <br>
 
